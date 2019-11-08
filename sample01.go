@@ -1,4 +1,3 @@
-sample
 package sample01
 
 func HelloWorld(s string) string {
